@@ -1,4 +1,6 @@
 
+[![Build Status](https://robertbarnes.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/bobbarnes1981.mslearn-tailspin-spacegame-web?branchName=master)](https://robertbarnes.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
